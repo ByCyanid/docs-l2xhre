@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-3q7w9s.keitaro-tech-rtb.online/sitemap.xml
